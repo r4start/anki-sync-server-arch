@@ -1,2 +1,2 @@
-# anki-sync-server-arch
-Anki sync server package for arch linux.
+# Anki sync server package
+Anki sync server package for Arch linux.
